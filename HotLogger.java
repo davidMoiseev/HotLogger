@@ -1,4 +1,4 @@
-package org.hotteam67.HotLogger;
+package org.hotteam67.hotlogger;
 
 import java.io.File;
 import java.io.FileWriter;
